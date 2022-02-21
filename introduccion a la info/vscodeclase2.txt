@@ -1,0 +1,106 @@
+
+estan@DESKTOP-JF0DBUK MINGW64 ~
+$ pwd
+/c/Users/estan
+
+estan@DESKTOP-JF0DBUK MINGW64 ~
+$ cd " digital house"
+bash: cd:  digital house: No such file or directory
+
+estan@DESKTOP-JF0DBUK MINGW64 ~
+$ cd "digital house"
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house
+$ cd repaso_clase_1y2
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2
+$ mv historia_de_la_contabilidad historia_de_la_informatica
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2
+$ mv que_haremos_hoy software_y_hardware
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2
+$ mv infraestructura git_bash_y_vscode
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2
+$ ls
+git_bash_y_vscode/  historia_de_la_informatica/  interfaces_de_usuario/  servidores/  software_y_hardware/
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2
+$ cd git_bash_y_vscode
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/git_bash_y_vscode
+$ ls
+repaso2.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/git_bash_y_vscode
+$ nano repaso2.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/git_bash_y_vscode
+$ cat repaso2.txt
+gitbash nos permite una comunicacion mas directa y rapida con la computadora.
+vscode es un ide (entorno de desarrollo integrado) que nos permite agilizar nuestro codigo
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/git_bash_y_vscode
+$ cd historia_de_la_informatica
+bash: cd: historia_de_la_informatica: No such file or directory
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/git_bash_y_vscode
+$ cd ../historia_de_la_informatica
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/historia_de_la_informatica
+$ ls
+repaso1.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/historia_de_la_informatica
+$ nano repaso1.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/historia_de_la_informatica
+$ cat repaso1.txt
+es la historia de como llegamos a las tecnologias actuales. Pasando desde alan turing, charles babbage, joseph jacquard, blade pascal, ada lovelace,etc.
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/historia_de_la_informatica
+$ cd ../interfaces_de_usuario
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/interfaces_de_usuario
+$ ls
+repaso3.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/interfaces_de_usuario
+$ nano repaso3.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/interfaces_de_usuario
+$ cat repaso3.txt
+se trata de los diferentes tipos de comunicacion que podemos tener con la maquina. cli o lineas de comandos, gui (graphic user interface) y cognitiva.
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/interfaces_de_usuario
+$ cd ../servidores
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/servidores
+$ ls
+repaso4.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/servidores
+$ nano repaso4.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/servidores
+$ cat repaso4.txt
+almacena recursos (archivos,datos,servicios,etc) y se encarga de procesar los pedidos de los usuarios y dar respuestas.
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/servidores
+$ cd ../software_y_hardware
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/software_y_hardware
+$ ls
+repaso5.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/software_y_hardware
+$ nano repaso5.txt
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/software_y_hardware
+$ cat repaso5.txt
+Hardware se trata de todos los elementos fisicos de la computadora.
+software son los programas que se ejecutan sobre el hardware.
+
+estan@DESKTOP-JF0DBUK MINGW64 ~/digital house/repaso_clase_1y2/software_y_hardware
+$
